@@ -1,17 +1,38 @@
 # jemdoc: menu{MENU}{research.html}, nofooter  
 == Research
 
-== Publication
+== Publications
 
-[https://link.springer.com/article/10.1007/s11336-024-09961-w Sufficient and Necessary Conditions for the Identifiability of DINA Models with Polytomous Responses], *Mengqi Lin*, and Gongjun Xu. /Psychometrika./
+[https://link.springer.com/article/10.1007/s11336-024-09961-w Sufficient and Necessary Conditions for the Identifiability of DINA Models with Polytomous Responses], *Mengqi Lin* and Gongjun Xu. /Psychometrika/, 89(2), 717--740, 2024.
 
-== In preparation (Push me to work hard!)
+== Preprints
 
+[https://arxiv.org/abs/2610.02682 Characterizing Identifiability in Boolean Factor Models], *Mengqi Lin* and Gongjun Xu. Major revision at /Journal of the American Statistical Association/.
 
-==  Award
+[https://arxiv.org/abs/2606.05120 Stochastic Sensitivity Analysis for Matched Observational Studies], *Mengqi Lin*, Colin Fogarty, and Gongjun Xu. Submitted.
 
-*1st* prize poster award at MCP 2022, Bremen, Germany.
+[https://arxiv.org/abs/2512.06601 Simultaneous Inference for False Discovery Proportions under Sensitivity Models for Observational Studies], *Mengqi Lin* and Colin Fogarty. Submitted.
 
-== R package
+== Software
 
-[https://github.com/Mengqi-Lin/dbh/tree/adaptive-weights dwbh-adaptive_weights], R package for dependence-adjusted weighted Benjamini-Hochberg and general step-up procedures, with adaptive weighting.
+- *idQ*, Python package for checking Q-matrix identifiability in cognitive diagnosis models.
+- *SensitivityFDP*, Python package for simultaneous inference on false discovery proportions in observational studies under sensitivity models.
+- [https://github.com/Mengqi-Lin/dbh/tree/adaptive-weights dwbh-adaptive_weights], R package for dependence-adjusted weighted Benjamini-Hochberg and general step-up procedures, with adaptive weighting.
+
+== Talks
+
+- /Characterizing Identifiability in Boolean Factor Models./ JSM 2026, Boston; JSM 2025, Nashville.
+- /Controlling the False Discovery Proportion in Observational Studies with Hidden Bias./ ICSA 2025, Taipei; ACIC 2025, Detroit; JSM 2024, Portland.
+- /Controlling the False Discovery Rate Under Dependency with the Adaptively Weighted BH Procedure./ JSM 2023, Toronto; MCP 2022, Bremen.
+- /Identifiability of Cognitive Diagnosis Models with Polytomous Responses./ IMPS 2023, Washington, D.C.
+
+== Awards
+
+- Student Paper Award, Mental Health Statistics Section, American Statistical Association, 2026.
+- Rackham Conference Travel Grant, University of Michigan, 2023, 2024, 2025.
+- *1st* prize poster award at MCP 2022, Bremen, Germany.
+
+== Service
+
+- Journal referee: /Statistica Sinica/, /Psychometrika/, /Journal of Educational and Behavioral Statistics/, /Scientific Reports/.
+- Volunteer, International Chinese Statistical Association (ICSA), 2023.

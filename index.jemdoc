@@ -6,9 +6,9 @@
  
 Welcome to my homepage! 
 
-I'm a third year PhD student in the [https://lsa.umich.edu/stats Department of Statistics] at the [https://umich.edu/ University of Michigan], gratefully advised by [https://sites.google.com/umich.edu/gongjunxu/home Gongjun Xu] and [https://sites.google.com/umich.edu/fogartyc Colin Fogarty].
+I'm a fifth year PhD student in the [https://lsa.umich.edu/stats Department of Statistics] at the [https://umich.edu/ University of Michigan], gratefully advised by [https://sites.google.com/umich.edu/gongjunxu/home Gongjun Xu] and [https://sites.google.com/umich.edu/fogartyc Colin Fogarty].
 
-I received my B.S from [https://www.sysu.edu.cn/ Sun Yat-sen University] in mathematics and applied math. I also spent my wonderful sophomore and junior years at [https://statistics.berkeley.edu/ UC Berkeley] studying statistics, where I was luckily advised by [https://www.stat.berkeley.edu/~wfithian/ Will Fithian] doing weighted multiple hypothesis testing under dependency. 
+I received my B.S. from [https://www.sysu.edu.cn/ Sun Yat-sen University] in mathematics and applied math. I also spent my wonderful sophomore and junior years at [https://statistics.berkeley.edu/ UC Berkeley] studying statistics, where I was luckily advised by [https://www.stat.berkeley.edu/~wfithian/ Will Fithian] doing weighted multiple hypothesis testing under dependency. 
 
 ~~~
 
@@ -17,14 +17,9 @@ I received my B.S from [https://www.sysu.edu.cn/ Sun Yat-sen University] in math
 - Phone: 1 7345966623 or 86 13712888448
 
 == Research Interests
-I am generally interested in both of *methodology* and *theory*. Though I am still developing my taste, I currently find these fields interesting.
-- Methodology: 
-	-- Latent Variable Models
-	-- Multiple Hypothesis Testing
-	-- Causal Inference
-	-- Psychometrics Modeling
-
-- Theory: 
-	-- Identifiability and Extremal Problems 
-	-- High Dimensional Statistics
-
+I am broadly interested in both *methodology* and *theory*. My current research focuses on:
+- Latent Variable Models
+- Causal Inference
+- Sensitivity Analysis
+- Psychometrics
+- Multiple Hypothesis Testing
